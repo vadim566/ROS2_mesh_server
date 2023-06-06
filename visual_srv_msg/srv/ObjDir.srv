@@ -1,0 +1,11 @@
+string operation
+string location
+string object_id
+string plan_scene_ns 
+string pose_x
+string pose_y
+string pose_z
+string pose_w
+string base_link
+---
+string id
